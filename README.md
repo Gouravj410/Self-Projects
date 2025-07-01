@@ -1,6 +1,6 @@
 # 📧 Spam Message Classifier (First ML Project)
 
-This is my **first self project in machine learning**, where I built a spam message classifier using Python and Scikit-learn.
+This is my **first self-project in machine learning**, where I built a spam message classifier using Python and Scikit-learn.
 
 The model predicts whether an SMS message is **spam or not spam** using text classification.
 
@@ -9,7 +9,7 @@ The model predicts whether an SMS message is **spam or not spam** using text cla
 ## 📂 Files Included
 
 - `spam_predictor.ipynb` – Main Jupyter Notebook with all the steps
-- `spam.csv` – Dataset used (labeled SMS messages)
+- `spam.csv` – Dataset used (labelled SMS messages)
 
 ---
 
@@ -42,18 +42,12 @@ The model predicts whether an SMS message is **spam or not spam** using text cla
 
 ---
 
-## 📷 Screenshot (Optional)
-
-> *(You can upload a screenshot of your notebook output and add it here later)*
-
----
-
 ## 🚀 Future Improvements
 
 This is a beginner project. In future, I plan to:
 - Add deep learning models
 - Handle imbalanced data
-- Improve evaluation using precision, recall, F1-score
+- Improve evaluation using precision, recall, and F1-score
 
 ---
 
